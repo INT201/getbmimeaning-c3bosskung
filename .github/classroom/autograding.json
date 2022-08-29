@@ -1,13 +1,13 @@
 {
   "tests": [
     {
-      "name": "test&#45;bmi",
+      "name": "test&#38;&#35;45&#59;bmi",
       "setup": "npm install",
       "run": "npm test",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 60,
+      "timeout": 10,
       "points": 10
     }
   ]
